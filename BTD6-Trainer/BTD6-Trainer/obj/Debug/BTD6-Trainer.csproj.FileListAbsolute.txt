@@ -1,0 +1,14 @@
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\bin\Debug\BTD6-Trainer.exe.config
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\bin\Debug\BTD6-Trainer.exe
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\bin\Debug\BTD6-Trainer.pdb
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer.csprojAssemblyReference.cache
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\MainWindow.g.cs
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\App.g.cs
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer_MarkupCompile.cache
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer_MarkupCompile.lref
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\MainWindow.baml
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer.g.resources
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6_Trainer.Properties.Resources.resources
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer.csproj.GenerateResource.cache
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer.exe
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\obj\Debug\BTD6-Trainer.pdb

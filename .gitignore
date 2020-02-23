@@ -1,0 +1,10 @@
+*.cache
+*.resources
+*.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.exe
+*.pdb
+*.dll
