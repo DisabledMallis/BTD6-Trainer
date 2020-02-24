@@ -8,3 +8,12 @@
 *.exe
 *.pdb
 *.dll
+*.db
+*.opendb
+*.ipch
+*.ilk
+*.idb
+*.tlog
+*.pch
+*.log
+*.obj
