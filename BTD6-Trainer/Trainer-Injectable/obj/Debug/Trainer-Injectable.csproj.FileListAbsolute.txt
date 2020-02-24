@@ -1,6 +1,6 @@
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\bin\Debug\Trainer-Injectable.dll
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\bin\Debug\Trainer-Injectable.pdb
-A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer-Injectable.dll
-A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer-Injectable.pdb
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer_Injectable.Trainer.resources
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer-Injectable.csproj.GenerateResource.cache
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer-Injectable.dll
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\Trainer-Injectable\obj\Debug\Trainer-Injectable.pdb
