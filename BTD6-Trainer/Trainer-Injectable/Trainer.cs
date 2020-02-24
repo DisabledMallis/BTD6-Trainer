@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 using Trainer_Injectable.Hacks;
 
 namespace Trainer_Injectable
@@ -18,6 +19,7 @@ namespace Trainer_Injectable
             {
                 cheat.addToggleToWindow(x,y);
                 y += 23;
+                Console.WriteLine("Added {0} to the UI!", cheat.name);
             }
         }
     }

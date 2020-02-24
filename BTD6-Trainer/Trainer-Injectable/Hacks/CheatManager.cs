@@ -17,6 +17,9 @@ namespace Trainer_Injectable.Hacks
             manager = this;
             //Load cheats here
             new InfCash();
+            new InfMonkeyMoneyReward();
+            new InfMonkeyMoney();
+            new PlaceAnywhere();
             Console.WriteLine("Cheats loaded!");
         }
     }

@@ -27,7 +27,8 @@ namespace Trainer_Injectable.Hacks
                 else
                     onDisable();
             };
-            toggle.Font = new Font("Arial", 16, FontStyle.Regular);
+            toggle.Location = new Point(x, y);
+            toggle.Font = new Font("Arial", 12, FontStyle.Regular);
             toggle.Text = name;
             toggle.Width = 400;
             toggle.Visible = true;

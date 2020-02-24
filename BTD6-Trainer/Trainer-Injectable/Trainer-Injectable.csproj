@@ -48,6 +48,10 @@
     <Compile Include="Hacks\Cheat.cs" />
     <Compile Include="Hacks\CheatManager.cs" />
     <Compile Include="Hacks\Cheats\InfCash.cs" />
+    <Compile Include="Hacks\Cheats\InfMonkeyMoney.cs" />
+    <Compile Include="Hacks\Cheats\InfMonkeyMoneyReward.cs" />
+    <Compile Include="Hacks\Cheats\PlaceAnywhere.cs" />
+    <Compile Include="Hacks\PatchCheat.cs" />
     <Compile Include="MommyMem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Trainer.cs">
