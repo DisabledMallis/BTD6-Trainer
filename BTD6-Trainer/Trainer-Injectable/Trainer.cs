@@ -10,6 +10,7 @@ namespace Trainer_Injectable
         {
             mainWindow = this;
             InitializeComponent();
+            MommyMem mem = new MommyMem();
             CheatManager manager = new CheatManager();
             int x = 13;
             int y = 13;

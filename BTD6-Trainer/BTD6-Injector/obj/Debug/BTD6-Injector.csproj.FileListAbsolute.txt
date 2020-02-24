@@ -3,3 +3,4 @@ A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-In
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Injector\bin\Debug\BTD6-Injector.pdb
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Injector\obj\Debug\BTD6-Injector.exe
 A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Injector\obj\Debug\BTD6-Injector.pdb
+A:\Desktop Files\Bloons shit\BTD6\BTD6-Trainer\BTD6-Trainer\BTD6-Trainer\BTD6-Injector\obj\Debug\BTD6-Injector.csprojAssemblyReference.cache
